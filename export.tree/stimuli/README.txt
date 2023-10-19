@@ -1,1 +1,0 @@
-Please note that the stimuli could not be shared because access to the FACES database requires permission from the original authors. Access can be requested here: https://faces.mpdl.mpg.de/imeji/
